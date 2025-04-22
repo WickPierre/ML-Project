@@ -12,7 +12,6 @@ venv/
 .venv/
 
 # Модели и данные
-*.pth
 *.ckpt
 *.pt
 human_poses_data
